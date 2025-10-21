@@ -35,7 +35,7 @@ Load the dataset programmatically using the 🤗 Datasets library:
 ```python
 from datasets import load_dataset
 
-dataset = load_dataset("pmovva/rebus_dataset")
+dataset = load_dataset("pmovva/rebus-puzzles")
 example = dataset["train"][0]
 example["image"].show()
 print(example)
