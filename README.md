@@ -42,13 +42,12 @@ print(example)
 ```
 If you use this dataset in your research or publications, please cite the accompanying paper:
 ```
-@misc{movva2025reasoningriddlesexplainabilityreveals,
-      title={Reasoning Riddles: How Explainability Reveals Cognitive Limits in Vision-Language Models}, 
-      author={Prahitha Movva},
-      year={2025},
-      eprint={2510.02780},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2510.02780},
+@inproceedings{
+movva2025reasoning,
+title={Reasoning Riddles: How Explainability Reveals Cognitive Limits in Vision-Language Models},
+author={Prahitha Movva},
+booktitle={The First Workshop on the Application of LLM Explainability to Reasoning and Planning},
+year={2025},
+url={https://openreview.net/forum?id=c5FgKxcwMP}
 }
 ```
